@@ -64,4 +64,5 @@ These experiences have significantly enhanced my technical and analytical skills
 
 ### Projects :microscope:
 *Logistics Web*
-* [Automation Script](https://github.com/esmeraldawgs/automation-test-logistics-web.git)
+* [Automation Script Cypress](https://github.com/esmeraldawgs/cypress-automation-test-logistics-web.git)
+* [Automation Script WebDriverIO](https://github.com/esmeraldawgs/wdio-automation-test-logistics-web.git)
